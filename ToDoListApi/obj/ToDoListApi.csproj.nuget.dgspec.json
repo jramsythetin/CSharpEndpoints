@@ -4,6 +4,126 @@
     "/home/jram/Estudos/C#/CoreCSharp/ToDoList/ToDoListApi/ToDoListApi.csproj": {}
   },
   "projects": {
+    "/home/jram/Estudos/C#/CoreCSharp/ToDoList/Application/Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/jram/Estudos/C#/CoreCSharp/ToDoList/Application/Application.csproj",
+        "projectName": "Application",
+        "projectPath": "/home/jram/Estudos/C#/CoreCSharp/ToDoList/Application/Application.csproj",
+        "packagesPath": "/home/jram/.nuget/packages/",
+        "outputPath": "/home/jram/Estudos/C#/CoreCSharp/ToDoList/Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/jram/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/jram/Estudos/C#/CoreCSharp/ToDoList/Communication/Communication.csproj": {
+                "projectPath": "/home/jram/Estudos/C#/CoreCSharp/ToDoList/Communication/Communication.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.413/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/jram/Estudos/C#/CoreCSharp/ToDoList/Communication/Communication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/jram/Estudos/C#/CoreCSharp/ToDoList/Communication/Communication.csproj",
+        "projectName": "Communication",
+        "projectPath": "/home/jram/Estudos/C#/CoreCSharp/ToDoList/Communication/Communication.csproj",
+        "packagesPath": "/home/jram/.nuget/packages/",
+        "outputPath": "/home/jram/Estudos/C#/CoreCSharp/ToDoList/Communication/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/jram/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.413/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/home/jram/Estudos/C#/CoreCSharp/ToDoList/ToDoListApi/ToDoListApi.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -25,7 +145,14 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "/home/jram/Estudos/C#/CoreCSharp/ToDoList/Application/Application.csproj": {
+                "projectPath": "/home/jram/Estudos/C#/CoreCSharp/ToDoList/Application/Application.csproj"
+              },
+              "/home/jram/Estudos/C#/CoreCSharp/ToDoList/Communication/Communication.csproj": {
+                "projectPath": "/home/jram/Estudos/C#/CoreCSharp/ToDoList/Communication/Communication.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

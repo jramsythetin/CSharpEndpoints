@@ -1,0 +1,15 @@
+/home/jram/Estudos/C#/CoreCSharp/ToDoList/Application/bin/Debug/net8.0/Application.deps.json
+/home/jram/Estudos/C#/CoreCSharp/ToDoList/Application/bin/Debug/net8.0/Application.dll
+/home/jram/Estudos/C#/CoreCSharp/ToDoList/Application/bin/Debug/net8.0/Application.pdb
+/home/jram/Estudos/C#/CoreCSharp/ToDoList/Application/bin/Debug/net8.0/Communication.dll
+/home/jram/Estudos/C#/CoreCSharp/ToDoList/Application/bin/Debug/net8.0/Communication.pdb
+/home/jram/Estudos/C#/CoreCSharp/ToDoList/Application/obj/Debug/net8.0/Application.csproj.AssemblyReference.cache
+/home/jram/Estudos/C#/CoreCSharp/ToDoList/Application/obj/Debug/net8.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/jram/Estudos/C#/CoreCSharp/ToDoList/Application/obj/Debug/net8.0/Application.AssemblyInfoInputs.cache
+/home/jram/Estudos/C#/CoreCSharp/ToDoList/Application/obj/Debug/net8.0/Application.AssemblyInfo.cs
+/home/jram/Estudos/C#/CoreCSharp/ToDoList/Application/obj/Debug/net8.0/Application.csproj.CoreCompileInputs.cache
+/home/jram/Estudos/C#/CoreCSharp/ToDoList/Application/obj/Debug/net8.0/Applicat.44B5EDA2.Up2Date
+/home/jram/Estudos/C#/CoreCSharp/ToDoList/Application/obj/Debug/net8.0/Application.dll
+/home/jram/Estudos/C#/CoreCSharp/ToDoList/Application/obj/Debug/net8.0/refint/Application.dll
+/home/jram/Estudos/C#/CoreCSharp/ToDoList/Application/obj/Debug/net8.0/Application.pdb
+/home/jram/Estudos/C#/CoreCSharp/ToDoList/Application/obj/Debug/net8.0/ref/Application.dll

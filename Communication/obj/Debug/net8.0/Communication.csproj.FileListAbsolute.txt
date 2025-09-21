@@ -1,0 +1,11 @@
+/home/jram/Estudos/C#/CoreCSharp/ToDoList/Communication/bin/Debug/net8.0/Communication.deps.json
+/home/jram/Estudos/C#/CoreCSharp/ToDoList/Communication/bin/Debug/net8.0/Communication.dll
+/home/jram/Estudos/C#/CoreCSharp/ToDoList/Communication/bin/Debug/net8.0/Communication.pdb
+/home/jram/Estudos/C#/CoreCSharp/ToDoList/Communication/obj/Debug/net8.0/Communication.GeneratedMSBuildEditorConfig.editorconfig
+/home/jram/Estudos/C#/CoreCSharp/ToDoList/Communication/obj/Debug/net8.0/Communication.AssemblyInfoInputs.cache
+/home/jram/Estudos/C#/CoreCSharp/ToDoList/Communication/obj/Debug/net8.0/Communication.AssemblyInfo.cs
+/home/jram/Estudos/C#/CoreCSharp/ToDoList/Communication/obj/Debug/net8.0/Communication.csproj.CoreCompileInputs.cache
+/home/jram/Estudos/C#/CoreCSharp/ToDoList/Communication/obj/Debug/net8.0/Communication.dll
+/home/jram/Estudos/C#/CoreCSharp/ToDoList/Communication/obj/Debug/net8.0/refint/Communication.dll
+/home/jram/Estudos/C#/CoreCSharp/ToDoList/Communication/obj/Debug/net8.0/Communication.pdb
+/home/jram/Estudos/C#/CoreCSharp/ToDoList/Communication/obj/Debug/net8.0/ref/Communication.dll

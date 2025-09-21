@@ -107,6 +107,29 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Communication": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Application.dll": {}
+        }
+      },
+      "Communication/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Communication.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Communication.dll": {}
+        }
       }
     }
   },
@@ -473,10 +496,22 @@
         "swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "Application/1.0.0": {
+      "type": "project",
+      "path": "../Application/Application.csproj",
+      "msbuildProject": "../Application/Application.csproj"
+    },
+    "Communication/1.0.0": {
+      "type": "project",
+      "path": "../Communication/Communication.csproj",
+      "msbuildProject": "../Communication/Communication.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Application >= 1.0.0",
+      "Communication >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 8.0.19",
       "Swashbuckle.AspNetCore >= 6.6.2"
     ]
@@ -505,7 +540,14 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/home/jram/Estudos/C#/CoreCSharp/ToDoList/Application/Application.csproj": {
+              "projectPath": "/home/jram/Estudos/C#/CoreCSharp/ToDoList/Application/Application.csproj"
+            },
+            "/home/jram/Estudos/C#/CoreCSharp/ToDoList/Communication/Communication.csproj": {
+              "projectPath": "/home/jram/Estudos/C#/CoreCSharp/ToDoList/Communication/Communication.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

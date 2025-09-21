@@ -17,7 +17,6 @@
 /home/jram/Estudos/C#/CoreCSharp/ToDoList/ToDoListApi/obj/Debug/net8.0/ToDoListApi.csproj.CoreCompileInputs.cache
 /home/jram/Estudos/C#/CoreCSharp/ToDoList/ToDoListApi/obj/Debug/net8.0/ToDoListApi.MvcApplicationPartsAssemblyInfo.cs
 /home/jram/Estudos/C#/CoreCSharp/ToDoList/ToDoListApi/obj/Debug/net8.0/ToDoListApi.MvcApplicationPartsAssemblyInfo.cache
-/home/jram/Estudos/C#/CoreCSharp/ToDoList/ToDoListApi/obj/Debug/net8.0/ToDoListApi.sourcelink.json
 /home/jram/Estudos/C#/CoreCSharp/ToDoList/ToDoListApi/obj/Debug/net8.0/staticwebassets.build.json
 /home/jram/Estudos/C#/CoreCSharp/ToDoList/ToDoListApi/obj/Debug/net8.0/staticwebassets.development.json
 /home/jram/Estudos/C#/CoreCSharp/ToDoList/ToDoListApi/obj/Debug/net8.0/staticwebassets/msbuild.ToDoListApi.Microsoft.AspNetCore.StaticWebAssets.props
@@ -32,3 +31,7 @@
 /home/jram/Estudos/C#/CoreCSharp/ToDoList/ToDoListApi/obj/Debug/net8.0/ToDoListApi.pdb
 /home/jram/Estudos/C#/CoreCSharp/ToDoList/ToDoListApi/obj/Debug/net8.0/ToDoListApi.genruntimeconfig.cache
 /home/jram/Estudos/C#/CoreCSharp/ToDoList/ToDoListApi/obj/Debug/net8.0/ref/ToDoListApi.dll
+/home/jram/Estudos/C#/CoreCSharp/ToDoList/ToDoListApi/bin/Debug/net8.0/Application.dll
+/home/jram/Estudos/C#/CoreCSharp/ToDoList/ToDoListApi/bin/Debug/net8.0/Communication.dll
+/home/jram/Estudos/C#/CoreCSharp/ToDoList/ToDoListApi/bin/Debug/net8.0/Application.pdb
+/home/jram/Estudos/C#/CoreCSharp/ToDoList/ToDoListApi/bin/Debug/net8.0/Communication.pdb

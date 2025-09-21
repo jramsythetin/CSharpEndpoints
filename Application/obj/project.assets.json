@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "Communication/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Communication.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Communication.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Communication/1.0.0": {
+      "type": "project",
+      "path": "../Communication/Communication.csproj",
+      "msbuildProject": "../Communication/Communication.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "Communication >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/home/jram/.nuget/packages/": {}
@@ -31,7 +50,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/home/jram/Estudos/C#/CoreCSharp/ToDoList/Communication/Communication.csproj": {
+              "projectPath": "/home/jram/Estudos/C#/CoreCSharp/ToDoList/Communication/Communication.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
