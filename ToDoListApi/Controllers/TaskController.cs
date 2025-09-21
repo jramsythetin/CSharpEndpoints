@@ -11,7 +11,7 @@ namespace ToDoListApi.Controllers;
 
 [Route("api/[controller]")]
 [ApiController]
-public class ItemController : ControllerBase
+public class TaskController : ControllerBase
 {
     [HttpPost]
     [ProducesResponseType(typeof(ResponseTaskJson), StatusCodes.Status201Created)]
