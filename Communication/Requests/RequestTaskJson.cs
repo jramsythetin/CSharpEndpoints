@@ -12,8 +12,11 @@ public class RequestTaskJson
     public string TaskDescription { get; set; } = string.Empty;
 
     public TaskPriority Priority { get; set; }
-    
-    public TaskState Status { get; set; }
+
+    public TaskState Status
+    {
+        get; set; 
+    }
     
     public DateOnly Deadline { get; set; }
 
