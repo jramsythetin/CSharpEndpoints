@@ -9,7 +9,7 @@ Ele foi desenvolvido como estudo de **endpoints**, **arquitetura de software** e
 ## Tecnologias utilizadas
 
 - **C# 12**
-- **.NET 8.0.413**
+- **.NET 8.0.4**
 - **ASP.NET Core Web API**
 - **Padrão MVC**
 - **Clean Architecture (Use Cases)**
